@@ -1,2 +1,4 @@
 # neural-network-from-scratch
-Created a neural network without tensorflow/pytorch using MNSIT dataset to predict handwritten digits.
+Created a Neural Network without tensorflow/pytorch using MNSIT dataset to predict handwritten digits.
+
+

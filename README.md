@@ -1,4 +1,4 @@
-# neural-network-from-scratch
+# Neural Network from Scratch!
 Created a Neural Network without tensorflow/pytorch using MNSIT dataset to predict handwritten digits.
 Dataset has not been uploaded in the given repository. 
 The same can be downloaded from:https://www.kaggle.com/competitions/digit-recognizer/data
